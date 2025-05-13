@@ -14,5 +14,5 @@
 int main(int, char**){
     struct sockaddr_in servaddr;    // 用于存放ip和端口的结构
     char buff[BUFFSIZE];    // 用于收发数据
-
+    
 }
