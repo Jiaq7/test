@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/root/Documents/demo1/build",
-  "command": "/usr/bin/clang++   -g -o CMakeFiles/main.dir/main.cpp.o -c /root/Documents/demo1/server/main.cpp",
-  "file": "/root/Documents/demo1/server/main.cpp"
-}
-]
