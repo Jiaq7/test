@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/root/Documents/demo1/cilent/build",
-  "command": "/usr/bin/c++   -g -o CMakeFiles/cilent.dir/main.cpp.o -c /root/Documents/demo1/cilent/main.cpp",
-  "file": "/root/Documents/demo1/cilent/main.cpp"
-}
-]

@@ -1,3 +1,0 @@
-/root/Documents/demo1/cilent/build/CMakeFiles/cilent.dir
-/root/Documents/demo1/cilent/build/CMakeFiles/edit_cache.dir
-/root/Documents/demo1/cilent/build/CMakeFiles/rebuild_cache.dir

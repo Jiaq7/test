@@ -1,4 +1,6 @@
 #忽略.vscode
 ./vscode
 #忽略build
-./*/build
+./cilent/build
+./server/build
+

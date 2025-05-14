@@ -1,3 +1,0 @@
-/root/Documents/demo1/test/build/CMakeFiles/main.dir
-/root/Documents/demo1/test/build/CMakeFiles/edit_cache.dir
-/root/Documents/demo1/test/build/CMakeFiles/rebuild_cache.dir
