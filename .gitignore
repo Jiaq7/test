@@ -1,1 +1,4 @@
-./build
+#忽略.vscode
+./vscode
+#忽略build
+./*build
